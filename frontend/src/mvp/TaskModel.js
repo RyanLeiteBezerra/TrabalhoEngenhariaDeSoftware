@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3001/tasks';
-const EVENTS_URL = 'http://localhost:3001/events';
+const API_URL = 'https://backend-trabalho-2kcb.onrender.com/tasks';
+const EVENTS_URL = 'https://backend-trabalho-2kcb.onrender.com/events';
 
 export const TaskModel = {
   // Busca dados via REST

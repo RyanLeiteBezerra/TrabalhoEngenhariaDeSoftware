@@ -6,7 +6,7 @@ function App() {
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial' }}>
       <h1 style={{textAlign: 'center'}}>Comparativo de Arquiteturas</h1>
-      <p style={{textAlign: 'center'}}>Backend REST na porta 3001 | Frontend Vite na porta 5173</p>
+      <p style={{textAlign: 'center'}}> Backend hospedado no Render.com | Frontend Vite na porta 5173</p>
       
       <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', flexWrap: 'wrap' }}>
         
